@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\obj\Debug\netcoreapp2.2\WildLife.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\obj\Debug\netcoreapp2.2\WildLife.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\obj\Debug\netcoreapp2.2\WildLife.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\obj\Debug\netcoreapp2.2\WildLife.AssemblyInfo.cs
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\bin\Debug\netcoreapp2.2\WildLife.deps.json
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\bin\Debug\netcoreapp2.2\WildLife.runtimeconfig.json
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\bin\Debug\netcoreapp2.2\WildLife.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\bin\Debug\netcoreapp2.2\WildLife.dll
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\bin\Debug\netcoreapp2.2\WildLife.pdb
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\obj\Debug\netcoreapp2.2\WildLife.dll
+C:\Users\Steven\Desktop\epi\c#\wildlife-park\obj\Debug\netcoreapp2.2\WildLife.pdb
